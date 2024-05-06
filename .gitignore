@@ -1,1 +1,15 @@
-
+.vsconfig
+.vscode/
+.vs/
+Assembly-CSharp.csproj
+Library
+Logs
+obj
+Temp
+UserSettings
+.DS_Store
+*.csproj
+.fake
+*.sln
+*.sln
+WorldRecord.sln
